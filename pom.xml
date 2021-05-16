@@ -72,9 +72,9 @@
 
     <!--分库分表中间件-->
     <dependency>
-      <groupId>com.sharksharding</groupId>
-      <artifactId>shark</artifactId>
-      <version>2.0.2.RELEASE</version>
+      <groupId>io.shardingsphere</groupId>
+      <artifactId>sharding-jdbc-core</artifactId>
+      <version>3.1.0</version>
     </dependency>
   </dependencies>
 
